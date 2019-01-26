@@ -1,0 +1,6 @@
+Skia est une bibliothèque graphique 2D complète permettant de dessiner du texte, des géométries et des images.
+
+Pour plus de détails sur Skia, voir https://sites.google.com/site/skiadocs/.
+
+Les instructions de construction sont disponibles dans les guides de démarrage rapide de l’utilisateur
+Section de documentation du site Web ci-dessus.
